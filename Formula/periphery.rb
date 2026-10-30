@@ -1,9 +1,9 @@
 class Periphery < Formula
   desc "Tool to identify unused Swift code"
   homepage "https://github.com/agoodkind/periphery"
-  url "https://github.com/agoodkind/periphery/releases/download/3.9.4-agoodkind.1/periphery-3.9.4-agoodkind.1-macos-arm64.zip"
-  version "3.9.4-agoodkind.1"
-  sha256 "437c0157c3a39833c421ee468b31cea9d9f98c7bde2c4aed06c6855a722aa93a"
+  url "https://github.com/agoodkind/periphery/releases/download/3.9.6-agoodkind.1/periphery-3.9.6-agoodkind.1-macos-arm64.zip"
+  version "3.9.6-agoodkind.1"
+  sha256 "b1338e6871ef1cbd0d4a26813ad77eb3da53057519e44954ba3542a9c3ac5996"
   license "MIT"
 
   depends_on arch: :arm64
